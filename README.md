@@ -1,4 +1,4 @@
-![IndyMill image](https://indystry.cc/wp-content/uploads/2021/10/1.2.jpg)
+![Pico Mars Rover image](docs/mini.JPG)
 
 
 Designed by [Nikodem Bartnik](https://www.youtube.com/nikodembartnik). 
