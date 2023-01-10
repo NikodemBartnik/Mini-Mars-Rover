@@ -14,16 +14,17 @@ Project is open source and all the files and the code are available above. I wou
 
 
 ## Parts
-
 The parts used for this project:
- - [Robot Chassis]()
- - [Raspberry Pi Pico]()
- - [Motors]()
- - [Wheels]()
- - [FPV camera]()
- - [FPV screen]()
- - [Battery]()
- - [Servos]()
+ - [Robot Chassis](https://amzn.to/3VZOzZ9)
+ - [Raspberry Pi Pico](https://amzn.to/3ZqH3tj)
+ - [Motors](https://amzn.to/3ka2aQf)
+ - [Wheels](https://amzn.to/3GrcCKO)
+ - [FPV camera](https://amzn.to/3IENinb)
+ - [FPV screen](https://amzn.to/3CDmMqy)
+ - [Battery](https://amzn.to/3GT1Rm2)
+ - [Servos](https://amzn.to/3XpeDy7)
+
+ If you buy the chassis like the one listed above you don't need to buy additional motors and wheels. All the parts are just examples. Use aht you have, what is more suitable for your project or what's currently cheaper.
 
 ## Arm
 Have you seen a mars rover without a robotic arm? Exactly, that's why I also designed one for this project. It's all 3D printed and uses cheap microservo motors. The arm is not perfect and after some experiments I had to make all the links shorter which reduced the range of the arm but the small motors are very limited. Redesigning the arm for standard servo motors might be a good idea but it might be hard to fit it on the robot.
